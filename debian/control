@@ -1,8 +1,9 @@
 Source: ruby2.3
 Section: ruby
 Priority: optional
-Maintainer: Antonio Terceiro <terceiro@debian.org>
-Uploaders: Christian Hofstaedtler <zeha@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Antonio Terceiro <terceiro@debian.org>
+XSBC-Pexip-Original-Uploaders: Christian Hofstaedtler <zeha@debian.org>
 Build-Depends: autotools-dev,
                bison,
                chrpath,
@@ -32,6 +33,7 @@ Homepage: http://www.ruby-lang.org/
 Vcs-Git: https://anonscm.debian.org/git/collab-maint/ruby.git
 Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/ruby.git
 Testsuite: autopkgtest
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
 
 Package: ruby2.3
 Multi-Arch: allowed

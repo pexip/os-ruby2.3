@@ -1,3 +1,9 @@
+ruby2.3 (2.3.3-1+deb9u2pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Fri, 06 Jul 2018 15:01:00 +0000
+
 ruby2.3 (2.3.3-1+deb9u2) stretch-security; urgency=high
 
   * asn1: fix out-of-bounds read in decoding constructed objects

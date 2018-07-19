@@ -2,6 +2,13 @@ ruby2.3 (2.3.3-1+deb9u2pexip1) pexip; urgency=medium
 
   * Prepare Pexip packaging
   * Backport fix for CVE-2017-17405
+  * Backport fix for CVE-2018-1000073
+  * Backport fix for CVE-2018-1000074
+  * Backport fix for CVE-2018-1000075
+  * Backport fix for CVE-2018-1000076
+  * Backport fix for CVE-2018-1000077
+  * Backport fix for CVE-2018-1000078
+  * Backport fix for CVE-2018-1000079
 
  -- John-Mark Bell <jmb@pexip.com>  Fri, 06 Jul 2018 15:01:00 +0000
 

@@ -2,3 +2,10 @@ debian-changes
 CVE-2017-17405-a.patch
 CVE-2017-17405-b.patch
 CVE-2018-100007x.patch
+CVE-2017-17742.patch
+CVE-2018-6914.patch
+CVE-2018-8777.patch
+CVE-2018-8778.patch
+CVE-2018-8779-a.patch
+CVE-2018-8779-b.patch
+CVE-2018-8780.patch

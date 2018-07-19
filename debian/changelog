@@ -15,6 +15,7 @@ ruby2.3 (2.3.3-1+deb9u2pexip1) pexip; urgency=medium
   * Backport fix for CVE-2018-8778
   * Backport fix for CVE-2018-8779
   * Backport fix for CVE-2018-8780
+  * Fix timezone tests to work with modern tzdata
 
  -- John-Mark Bell <jmb@pexip.com>  Fri, 06 Jul 2018 15:01:00 +0000
 

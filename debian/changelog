@@ -1,6 +1,8 @@
 ruby2.3 (2.3.3-1+deb9u3pexip1) pexip; urgency=medium
 
   * New upstream release
+  * Drop all local CVE backports: merged upstream
+  * debian/patches/fix-tz-tests-tokyo.patch: drop; merged upstream
 
  -- John-Mark Bell <jmb@pexip.com>  Mon, 03 Sep 2018 16:01:55 +0100
 

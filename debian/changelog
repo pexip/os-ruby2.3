@@ -1,3 +1,21 @@
+ruby2.3 (2.3.3-1+deb9u6) stretch-security; urgency=medium
+
+  * CVE-2019-8320, CVE-2019-8321, CVE-2019-8322, CVE-2019-8323, CVE-2019-8324
+  * CVE-2019-8325
+
+ -- Moritz Mühlenhoff <jmm@debian.org>  Fri, 12 Apr 2019 20:28:46 +0200
+
+ruby2.3 (2.3.3-1+deb9u5) stretch; urgency=medium
+
+  * Backport upstream patches to fix FTBFS due to expired SSL certificate and
+    timezone changes (Closes: #919999)
+    - imap: update test certificate
+    - timezone changes for Japan and Kiritimati
+  * test/ruby/test_gc.rb: skip entirely; some tests in there can fail
+    unpredictably on buildds (Closes: #912740)
+
+ -- Antonio Terceiro <terceiro@debian.org>  Sat, 23 Feb 2019 18:31:45 -0300
+
 ruby2.3 (2.3.3-1+deb9u4) stretch-security; urgency=high
 
   * Non-maintainer upload by the Security Team.

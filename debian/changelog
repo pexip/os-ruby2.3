@@ -1,6 +1,8 @@
 ruby2.3 (2.3.3-1+deb9u6pexip1) pexip; urgency=medium
 
   * New upstream release
+  * debian/patches/fix-tz-tests-kiritimati.patch,
+    debian/patches/fix-tz-tests-kiritimati2.patch: drop; merged upstream
 
  -- John-Mark Bell <jmb@pexip.com>  Wed, 17 Apr 2019 10:32:02 +0100
 

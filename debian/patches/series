@@ -1,5 +1,4 @@
 debian-changes
 CVE-2019-8320-25.patch
-fix-tz-tests-kiritimati.patch
 fix-tz-tests-kiritimati2.patch
 fix-tz-tests-lisbon.patch
